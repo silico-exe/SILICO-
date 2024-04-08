@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm SOUFIANE</h1>
+<h1 align="center">THIS IS SILICO ⚡️ </h1>
 
-
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f66362f35652f38336636356538633665666338386661626663666262313163663633626438612e676966](https://github.com/silico-exe/SILICO-/assets/145225447/128e9bac-91c8-4b38-bd62-e9f6ecf56150)
 
 <h3 align="center">A passionate software engineering student from Morocco</h3>
 
@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **ADHD XD**
 
+![giphy](https://github.com/silico-exe/SILICO-/assets/145225447/50129701-6e01-45e2-b1b9-2285d0063007)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/silico_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silico_exe" height="30" width="40" /></a>
@@ -31,3 +33,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/" /></a></p><br><br>
+
+![8351171](https://github.com/silico-exe/SILICO-/assets/145225447/59d0c870-4a46-4a06-80b4-30f3e88754ed)
