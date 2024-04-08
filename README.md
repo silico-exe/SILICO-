@@ -2,11 +2,15 @@
 
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f66362f35652f38336636356538633665666338386661626663666262313163663633626438612e676966](https://github.com/silico-exe/SILICO-/assets/145225447/128e9bac-91c8-4b38-bd62-e9f6ecf56150)
 
-<h3 align="center">A passionate software engineering student from Morocco</h3>
+<h2 align="center">A passionate software engineering student from Morocco</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silico-exe&label=Profile%20views&color=0e75b6&style=flat" alt="silico-exe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/silico_exe" target="blank"><img src="https://img.shields.io/twitter/follow/silico_exe?logo=twitter&style=for-the-badge" alt="silico_exe" /></a> </p>
+
+┌──(silico㉿readme)-[~]
+
+└─$ cat silico
 
 - 🔭 I’m studying **software engineering**
 
@@ -34,4 +38,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/" /></a></p><br><br>
 
+
+<h2>There are a thousand hacking at the branches of evil to one who is striking at the root.</h2>
+
+******************************************************************************************************************************************************
 ![8351171](https://github.com/silico-exe/SILICO-/assets/145225447/59d0c870-4a46-4a06-80b4-30f3e88754ed)
