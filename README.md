@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SOUFIANE</h1>
 
-![Uploading who-asked.gif…]()
 
-<h1 align="center">A passionate software engineering student from Morocco</h1>
+
+<h3 align="center">A passionate software engineering student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silico-exe&label=Profile%20views&color=0e75b6&style=flat" alt="silico-exe" /> </p>
 
@@ -31,7 +31,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silico-exe&show_icons=true&locale=en&layout=compact" alt="silico-exe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silico-exe&" alt="silico-exe" /></p>
