@@ -3,6 +3,8 @@
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f66362f35652f38336636356538633665666338386661626663666262313163663633626438612e676966](https://github.com/silico-exe/SILICO-/assets/145225447/128e9bac-91c8-4b38-bd62-e9f6ecf56150)
 
 <h2 align="center">A passionate software engineering student from Morocco</h2>
+<img align="right" alt="Coding" width="400" src="https://github.com/silico-exe/SILICO-/assets/145225447/50129701-6e01-45e2-b1b9-2285d0063007">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silico-exe&label=Profile%20views&color=0e75b6&style=flat" alt="silico-exe" /> </p>
 
@@ -22,7 +24,6 @@
 
 - ⚡ Fun fact **ADHD XD**
 
-![giphy](https://github.com/silico-exe/SILICO-/assets/145225447/50129701-6e01-45e2-b1b9-2285d0063007)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
